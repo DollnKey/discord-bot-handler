@@ -4,8 +4,8 @@ Essa handler não é nada oficial, apenas para ajudar pessoas que tem um pouco n
 Créditos: **eu** :3
 ** **
 ## Requisitos.
-- Node.js : acima da v13
-- Discord.js : v12
+- Node.js : acima da **v13**
+- Discord.js : acima da **v12**
 
 ## Exemplo do .env
 ```
