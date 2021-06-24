@@ -2,9 +2,8 @@
 
 Essa handler não é nada oficial, apenas para ajudar pessoas que tem um pouco noção de [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) & [Discord.js](https://discord.js.org/#/).
 Créditos: **eu** :3
-
-## Requisitos.
 ** **
+## Requisitos.
 - Node.js : acima da v13
 - Discord.js : v12
 
