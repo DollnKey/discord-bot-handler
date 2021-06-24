@@ -16,5 +16,5 @@ module.exports = class ClientManager extends Client {
         super.login(token || process.env.TOKEN)
         this.utils.loadCommands()
         this.utils.loadEvents()
-    }
-}
+    };
+};
